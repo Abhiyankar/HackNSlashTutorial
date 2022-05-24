@@ -12,7 +12,7 @@ The basic controls for now are up arrow key, down arrow key, left down arrow key
 
 Z for Attack, and X for Dash.
 
-Here you can see the screenshots of the current phase : 
+Here you can see some of the screenshots of the game : 
 
 ![Image 1](1 (2).png)
 
