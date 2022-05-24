@@ -14,6 +14,6 @@ Z for Attack, and X for Dash.
 
 Here you can see some of the screenshots of the game : 
 
-![Image 1](1 (2).png)
+![Image 1](one.png)
 
-![Image 2](2 (2).png)
+![Image 2](two.png)
